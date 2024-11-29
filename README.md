@@ -1,7 +1,3 @@
-Here’s a sample README for your keyword clustering project:
-
----
-
 # Keyword Clustering for SEO Optimization
 
 ## Overview
